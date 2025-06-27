@@ -1,0 +1,12 @@
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\bin\Debug\net6.0\UserAccountApp.deps.json
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\bin\Debug\net6.0\UserAccountApp.dll
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\bin\Debug\net6.0\UserAccountApp.pdb
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.AssemblyInfoInputs.cache
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.AssemblyInfo.cs
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.csproj.CoreCompileInputs.cache
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.sourcelink.json
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.dll
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\refint\UserAccountApp.dll
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\UserAccountApp.pdb
+C:\CTS_IIHT_Workspace\NUnit_Projects\PL1\GIT\NUnitUserAccountVSProject\UserAccountApp\obj\Debug\net6.0\ref\UserAccountApp.dll
